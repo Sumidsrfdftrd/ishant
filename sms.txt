@@ -1,0 +1,23 @@
+
+{
+  "from":"+918239278588",
+  "text":"Testthis",
+  "sentStamp":1694086607000,
+  "receivedStamp":1694086608582,
+  "sim":"sim1"
+}
+{
+  "from":"+918239278588",
+  "text":"New",
+  "sentStamp":1694086632000,
+  "receivedStamp":1694086632813,
+  "sim":"sim1"
+}
+appss=From+%3A+%2B918239278588%0AHeee&
+{
+  "from":"+918239278588",
+  "text":"Hiuser",
+  "sentStamp":1694085458000,
+  "receivedStamp":1694085459331,
+  "sim":"sim1"
+}
